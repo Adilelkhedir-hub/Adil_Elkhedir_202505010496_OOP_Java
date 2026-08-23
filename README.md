@@ -1,2 +1,2 @@
 Readme.md 
-README
+READM
