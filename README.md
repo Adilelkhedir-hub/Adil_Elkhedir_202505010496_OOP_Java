@@ -126,7 +126,7 @@ The `Student` class stores student information such as ID, name, age, and GPA. T
 
 ---
 
-### Week 3 — Inheritance and Method Overriding
+### Week 3&4 — Inheritance and Method Overriding
 
 This tutorial introduces relationships between classes using inheritance.
 
@@ -141,14 +141,6 @@ The `person` class acts as a parent class, while `Student` and `lecturer` extend
 - Getters
 - Method overriding
 - Polymorphic behavior
-
----
-
-### Week 4 — Current Repository Status
-
-There is currently no separate `week4/` or `week_4/` directory in the repository.
-
-For completeness and consistency with the assignment structure, the Week 4 tutorial should be added when the corresponding source code or supporting files are available.
 
 ---
 
